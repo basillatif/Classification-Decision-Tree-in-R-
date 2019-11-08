@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568236914366.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2217458290",
+    "id" : "61BA6BAF",
+    "lastKnownWriteTime" : 1568332064,
+    "last_content_update" : 1568332064775,
+    "path" : "~/Desktop/Project 4 TMDB/Classification.R",
+    "project_path" : "Classification.R",
+    "properties" : {
+        "cursorPosition" : "44,20",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
